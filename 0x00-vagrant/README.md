@@ -1,0 +1,1 @@
+One of the file in this folder shows what the command "uname" prints on the screen when no option is added to the command.
